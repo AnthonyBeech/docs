@@ -21,22 +21,26 @@ Python is a versatile programming language widely used in data science, machine 
 ### Data Manipulation
 - **[Pandas](packages/pandas.md)** - Data analysis and manipulation
 - **[NumPy](packages/numpy.md)** - Numerical computing
-- **[Polars](packages/polars.md)** - Fast DataFrame library
+- **Polars** - Fast DataFrame library
+- **Dask** - Parallel computing
 
 ### Machine Learning
-- **[Scikit-learn](packages/scikit-learn.md)** - Machine learning library
-- **[TensorFlow](packages/tensorflow.md)** - Deep learning framework
-- **[PyTorch](packages/pytorch.md)** - Deep learning framework
+- **Scikit-learn** - Machine learning library
+- **TensorFlow** - Deep learning framework
+- **PyTorch** - Deep learning framework
+- **XGBoost** - Gradient boosting
 
 ### Visualization
-- **[Matplotlib](packages/matplotlib.md)** - Basic plotting
-- **[Seaborn](packages/seaborn.md)** - Statistical visualization
-- **[Plotly](packages/plotly.md)** - Interactive visualizations
+- **Matplotlib** - Basic plotting
+- **Seaborn** - Statistical visualization
+- **Plotly** - Interactive visualizations
+- **Bokeh** - Interactive web plots
 
 ### Web and APIs
-- **[Requests](packages/requests.md)** - HTTP library
-- **[FastAPI](packages/fastapi.md)** - Modern web framework
-- **[Streamlit](packages/streamlit.md)** - Data apps
+- **Requests** - HTTP library
+- **FastAPI** - Modern web framework
+- **Streamlit** - Data apps
+- **Flask** - Lightweight web framework
 
 ## Resources
 

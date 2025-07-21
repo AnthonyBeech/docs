@@ -64,7 +64,11 @@ nav:
   - Home: index.md
   - Getting Started: getting-started.md
   - Programming:
-    - Python: programming/python/index.md
+    - Python: 
+      - Overview: programming/python/index.md
+      - Packages:
+        - Pandas: programming/python/packages/pandas.md
+        - NumPy: programming/python/packages/numpy.md
     - R: programming/r/index.md
     - SQL: programming/sql/index.md
     - Bash: programming/bash/index.md
