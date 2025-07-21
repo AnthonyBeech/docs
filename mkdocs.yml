@@ -1,0 +1,5 @@
+# Production configuration - inherits from template
+INHERIT: mkdocs.template.yml
+
+# Override any production-specific settings here if needed
+strict: true
